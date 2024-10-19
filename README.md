@@ -48,8 +48,7 @@ You can try out the calculator yourself by visiting the live demo here: [Calcula
 ## 📸 **Screenshots**
 | **Calculator Interface** |
 |--------------------------|
-| ![calc](https://github.com/i-akb25/calc/assets/122167816/be57197a-0b2d-48f0-ad46-48cb7aacc269)
-|
+| ![calc](https://github.com/i-akb25/calc/assets/122167816/be57197a-0b2d-48f0-ad46-48cb7aacc269)|
 
 ---
 
